@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/statusbar/alarm.png</file>
+        <file>images/statusbar/network.png</file>
+        <file>images/statusbar/signal.png</file>
+    </qresource>
+</RCC>
